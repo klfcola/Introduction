@@ -11,6 +11,8 @@
      <img src="https://user-images.githubusercontent.com/121969444/223934323-ea146331-b0bf-444b-b4fc-f4c74bd3d416.png" title="CSS" alt="CSS" width="100" height="100" />
      <img src="https://user-images.githubusercontent.com/121969444/223934343-381978e9-a571-470b-be5b-2eb59ded57d1.png" title="SASS" alt="SASS" width="100" height="100" />
       <img src="https://user-images.githubusercontent.com/121969444/223934359-c15688ad-be09-42da-aed5-443c5bb43540.png" title="Git" alt="Git" width="100" height="100" />
+      <img src="https://github.com/klfcola/klfcola/assets/121969444/1b5926e3-f5f1-4a9a-a7ac-ee468b27b0d0" title="JQuery" alt="JQuery" width="100" height="100" />
+      <img src="https://github.com/klfcola/klfcola/assets/121969444/d81e640e-9299-40f9-b9ed-fa61d5ec235e" title="JQuery" alt="JQuery" width="100" height="100" />
 ---
 <h3 align="center">Contact me</h3>
 <div align="center">
