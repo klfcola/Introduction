@@ -14,6 +14,12 @@
      <img src="https://github.com/klfcola/klfcola/assets/121969444/1b5926e3-f5f1-4a9a-a7ac-ee468b27b0d0" title="JQuery" alt="JQuery" width="100" height="100" />
      <img src="https://github.com/klfcola/klfcola/assets/121969444/d81e640e-9299-40f9-b9ed-fa61d5ec235e" title="TypeScript" alt="TypeScript" width="100" height="100" />
      <img src="https://github.com/klfcola/klfcola/assets/121969444/90d6d99e-d4a8-4a01-8655-ff07a07fada5" title="React" alt="React" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/bd368354-dea2-4609-8b74-9142aac19a15" title="Redux" alt="Redux" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/1db8ac27-0961-49d5-bbf8-bc70014e5dd0" title="Next.js" alt="Next.js" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/552fe713-f177-4bb1-a3d9-8a0bcad75271" title="Node.js" alt="Node.js" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/9425cb34-8799-4d58-a556-bd660ca6fc0d" title="Express.js" alt="Express.js" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/2ad73bad-d3b4-4b9a-94ea-d6807328cffb" title="PostgreSQL" alt="PostgreSQL" width="100" height="100" />
+     <img src="https://github.com/klfcola/klfcola/assets/121969444/05b8db83-6c23-467c-901a-1a2893442df6" title="MongoDB" alt="MongoDB" width="100" height="100" />
 ---
 <h3 align="center">Contact me</h3>
 <div align="center">
