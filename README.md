@@ -4,7 +4,7 @@
 - ### Come from **Taiwan🇹🇼**
 - ### A **Web Developer🧑🏻‍💻**
 - ### A **Front-End Developer🧑🏻‍💻**
-- ### A former **Naval Petty-Officer🌊**
+- ### A former **Naval Petty Officer🌊**
 - ### Skill🧠:
      <img src="https://user-images.githubusercontent.com/121969444/223934316-8917a086-95fd-44a2-bc1a-c31225b6d12a.png" title="HTML" alt="HTML" width="100" height="100" />
      <img src="https://user-images.githubusercontent.com/121969444/223934323-ea146331-b0bf-444b-b4fc-f4c74bd3d416.png" title="CSS" alt="CSS" width="100" height="100" />
